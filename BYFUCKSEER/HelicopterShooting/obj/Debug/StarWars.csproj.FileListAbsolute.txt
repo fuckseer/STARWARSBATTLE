@@ -1,0 +1,10 @@
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\StarWars.MainGame.resources
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\StarWars.FormMain.resources
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\StarWars.csproj.GenerateResource.cache
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\HelicopterShooting.exe
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\HelicopterShooting.pdb
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\bin\Debug\HelicopterShooting.exe
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\bin\Debug\HelicopterShooting.pdb
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\HelicopterShooting.Properties.Resources.resources
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\WinformsGame-master\HelicopterShooting\obj\Debug\StarWars.csprojAssemblyReference.cache
